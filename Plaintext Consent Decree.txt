@@ -1308,23 +1308,22 @@ issues and trends; to recognize and highlight successful individual officer perf
 to develop new response strategies for repeat calls for service; and to identify systemic
 issues that impede CDP's ability to provide an appropriate response to an incident
 invo.lving an individual in crisis.
-VlJI. SEARCHES AND SEIZURES
+VIII. SEARCHES AND SEIZURES
 160. CDP will conduct all investigatory stops, searches, and arrests with the goal of ensuring
 that they are conducted in accordance with the rights secured and protected by the
-39 
 Constitution and state and federal law. CDP will conduct investigatory stops, searches,
-and arrests fairly and respectfully as pa1t of an effecti ve overall crime prevention
+and arrests fairly and respectfully as part of an effective overall crime prevention
 strategy that takes into account community values. To achieve this goal, CDP will
 revise, develop, and implement search and seizure policies that comply with applicable
 law, and include the requirements below.
-161. Officers will not use an individual's gender. race, ethnicity, national origin, or
+161. Officers will not use an individual's gender, race, ethnicity, national origin, or
 perceived sexual orientation as a factor, to any extent or degree, in establishing
 reasonable suspicion or probable cause, unless such information is part of an actual and
 credible description of a specific suspect in an investigation that includes other
 identifying factors.
 162. Officers will not conduct investigatory stops when they lack reasonable suspicion.
-163. Officers wi ll not conduct pat down searches without specific and articulable facts to
-reasonably suspect that a particular person is armed and dangerous. This docs not
+163. Officers will not conduct pat down searches without specific and articulable facts to
+reasonably suspect that a particular person is armed and dangerous. This does not
 restrict an officer's ability to conduct a search incident to arrest or prior to transport.
 164. Where an officer seeks consent for a search, the officer will inform the person of his or
 her right to refuse and to revoke consent at any time and document the person's
@@ -1339,11 +1338,10 @@ substantive violation is alleged. Upon notification, the supervisor will respond
 scene.
 167. Officers will not use "canned" or conclusory language without supporting detail in
 documents or reports documenting investigatory stops, searches, or arrests.
-I 68. Officers will articulate the justification for an investigatory stop, search, or anest in a
+168. Officers will articulate the justification for an investigatory stop, search, or arrest in a
 specific and clear manner in their reports. CDP will train officers to use specific and
 individualized descriptive language in reports when documenting investigatory stops,
 searches, and arrests. Supervisors will review all documentation of investigatory stops,
-40 
 searches, and arrests for completeness and adherence to law and CDP policy.
 169. CDP supervisors will review each arrest report by officers under their command,
 whether or not they involve the seizure of contraband, and will sign off on those reports
@@ -1351,15 +1349,15 @@ to memorialize their review within 24 hours of the arrest, absent exceptional
 circumstances. Supervisors will review reports and forms for deficiencies including:
 a. "canned" or conclusory language without supporting detail, inconsistent
 information, insufficient articulation of the legal basis for the action, or other
-indicia that the information in the reports or forms is not conect or complete;
+indicia that the information in the reports or forms is not correct or complete;
 b. arrests following stops that were not supported by reasonable suspicion;
 c. arrests that are not supported by probable cause, or are otherwise in violation
 of the law or CDP policy; and
 d. for every search or arrest involving the recovery of contraband evidence,
 whether the circumstances by which the evidence was recovered and/or
-probable cause fo r arrest was established are plausible and complete.
+probable cause for arrest was established are plausible and complete.
 170. Within seven days, CDP supervisors will separately document and report:
-(1) investigatory stops and pat-down sea rches that appear unsupported by reasonable
+(1) investigatory stops and pat-down searches that appear unsupported by reasonable
 suspicion, or that are otherwise in violation of CDP policy; (2) arrests unsupported by
 probable cause or that are in violation of CDP policy; or (3) investigatory stops,
 searches, and arrests that, while comporting with law and policy, indicate a need for
@@ -1370,12 +1368,11 @@ include recommending non-disciplinary corrective action for the involved officer
 referring the incident for administrative or criminal investigation. The supervisor will
 ensure that each violation or deficiency is addressed in the officer's performance
 evaluations.
-172. /\command-level official will review, within seven days of their completion, all
-supervisory reports of investigatory stops and pat-down searches not suppo1tcd by
-reasonable suspicion, all searches and aITests not supported by probable cause, and all
+172. A command-level official will review, within seven days of their completion, all
+supervisory reports of investigatory stops and pat-down searches not supported by
+reasonable suspicion, all searches and arrests not supported by probable cause, and all
 investigatory stops, searches, and arrests that were in violation of CDP policy, or that
-indicated a need for co1Tective action or review of agency policy, strategy, tactics, or
-41 
+indicated a need for corrective action or review of agency policy, strategy, tactics, or
 training. The commander will evaluate the supervisor's assessment and
 recommendations and ensure that all appropriate corrective action is taken, including
 referring the incident to Internal Affairs for investigation, if warranted. The
@@ -1384,8 +1381,8 @@ initiate the disciplinary process against supervisors who fail to conduct comple
 thorough, and accurate reviews of officers' investigatory stops, searches, and arrests.
 CDP will take into account the quality and completeness of these supervisory and
 commander reviews of officers' investigatory stops, searches, and arrests, in
-supervisory and commander perfomiance evaluations.
-173. CDP will provide all ofl:icers with initial training that is adequate in quality, quantity,
+supervisory and commander perfomance evaluations.
+173. CDP will provide all officers with initial training that is adequate in quality, quantity,
 scope, and type on investigatory stops, searches, and arrests, including the requirements
 of this Agreement. The training will be taught by a qualified instructor with significant
 experience in Fourth Amendment issues. The training will address the requirements of
@@ -1396,21 +1393,19 @@ reasonable suspicion, and mere speculation; and the difference between
 voluntary consent and the mere acquiescence to police authority;
 b. the types of facts and circumstances that may be considered in initiating,
 conducting, terminating, and expanding an investigatory stop;
-c. the level of permissible intrusion when conducting searches. such as
+c. the level of permissible intrusion when conducting searches, such as
 "pat-downs'' or "frisks'';
 d. the permissible nature and scope of searches incident to an arrest;
 e. procedures for executing searches, including handling, recording, and taking
 custody of seized property and evidence; and
 f. the principles of procedural justice and the effect that differing approaches to
 investigatory stops, searches, and arrests can have on community perceptions
-of police legitimacy and public safoty.
+of police legitimacy and public safety.
 174. CDP also will provide officers with annual search and seizure in-service training that is
 adequate in quality, quantity, type, and scope.
-175. CDP will incorporate the following elements in its training of officers: (1) if possible,
-42 
-introducing themselves at the initiation of contact with a civillan; (2) stating the reason
+175. CDP will incorporate the following elements in its training of officers: (1) if possible, introducing themselves at the initiation of contact with a civillan; (2) stating the reason
 for an investigatory stop as soon as practicable; (3) ensuring that an investigatory stop
-is no longer than necessary to take appropri ate action; and ( 4) acting with
+is no longer than necessary to take appropriate action; and (4) acting with
 professionalism and courtesy throughout the interaction.
 IX. ACCOUNT ABILITY
 176. The City and CDP will ensure that all allegations of officer misconduct, whether
